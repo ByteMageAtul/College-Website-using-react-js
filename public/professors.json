@@ -1,0 +1,1549 @@
+[
+  {
+    "id": 1,
+    "subject": "mathematics",
+    "name": "Dr. Alan Turing",
+    "field": "Computer Science & Artificial Intelligence",
+    "experience": "With over 25 years of pioneering work in artificial intelligence, cryptography, and theoretical computer science, Professor Alan Turing's extensive experience has been instrumental in shaping modern computing, including groundbreaking contributions during World War II in code-breaking and the development of the Turing machine, which laid the foundation for the digital age.",
+    "universities": [
+  "University of Cambridge – Turing began his academic career at the University of Cambridge, where he studied mathematics and laid the groundwork for his revolutionary concept of the Turing machine, establishing his early reputation as a brilliant thinker.",
+  "Princeton University – Turing pursued his Ph.D. at Princeton under the mentorship of renowned mathematician Alonzo Church, further developing his theories in logic, computability, and cryptography, which would soon play a vital role in wartime efforts.",
+  "Massachusetts Institute of Technology (MIT) – Though not a student here, Turing later collaborated with AI researchers at MIT during the early stages of machine learning frameworks, influencing early developments in artificial intelligence models and ethics.",
+  "Stanford University – Turing's later lectures and visiting scholar stints at Stanford contributed to the academic discourse on machine logic, where he inspired a generation of computational scientists with his insights into AI and mathematical logic.",
+  "Harvard University – Invited as a guest lecturer, Turing shared insights into the intersection of AI, cryptography, and philosophy, influencing Harvard's theoretical computer science research initiatives during the mid-20th century.",
+  "Oxford University – Turing often collaborated with scholars at Oxford, contributing to research in formal logic and philosophical aspects of artificial intelligence, helping shape the university’s early AI ethics curriculum."
+],
+    "photo": "/photos/alan.png",
+    "biography": {
+  "early_life": "Born in 1970 in London, Alan Turing exhibited an extraordinary aptitude for logic, mathematics, and puzzle-solving from a young age. Raised in an academically inclined family, he was often found tinkering with mechanical devices, decoding puzzles, and immersing himself in scientific books far beyond his grade level. His fascination with computation began in childhood, where he developed an early understanding of algorithms long before formal exposure. Throughout his schooling, he was recognized for his unconventional but brilliant approach to problem-solving. Teachers noted his unique ability to connect abstract mathematical concepts with real-world applications. By the time he reached his teenage years, Turing had already written amateur papers exploring cryptographic patterns and basic mechanical computation, foreshadowing his future contributions to the world of Artificial Intelligence and theoretical computer science. His early life laid a solid intellectual foundation and shaped a curious mind that would one day redefine the digital age.",
+
+
+      "education": [
+  "B.Sc. in Computer Science, University of Cambridge (1991), where he developed a strong foundation in computer science and began exploring early concepts of artificial intelligence.",
+  "M.Sc. in Artificial Intelligence, MIT (1993), focusing on advanced AI theories and algorithms, laying the groundwork for future innovations in machine learning and computational theory.",
+  "Ph.D. in Machine Learning, Stanford University (1997), where his research contributed to the development of key machine learning algorithms that became integral to modern AI technologies."
+]
+,
+"career": [
+  "Alan Turing began his illustrious journey as a pioneering researcher in Artificial Intelligence (AI), laying foundational theories that would later define the field. Early in his career, he made significant strides in theoretical computer science, developing the concept of the Turing machine—a model that still forms the basis of modern computing.",
+  "During World War II, Turing played a critical role in code-breaking at Bletchley Park, where his innovations in cryptanalysis contributed immensely to the Allied victory. His invention of the Bombe machine helped decipher the German Enigma code, saving millions of lives. He also worked on the design of electromechanical devices known as 'Little Curies' that provided mobile radiology support on the front lines—a remarkable intersection of computing and field medical science.",
+  "In the post-war era, Turing transitioned into the realms of cyber security and advanced mathematical logic, helping to define protocols that serve as the backbone of today’s secure communications. As a professor at the University of Cambridge, Turing was deeply invested in academic mentorship. He not only taught advanced concepts in AI and Quantum Computing but also nurtured some of the brightest scientific minds of the era.",
+  "Over his lifetime, Turing received numerous prestigious honors, including Nobel Prize nominations and recognition by international academies. Though Nobel Prizes were awarded posthumously to technologies inspired by his work (notably in 1903 and 1911 in Physics and Chemistry), his contributions to the theoretical and applied sciences were undeniable.",
+  "Today, Alan Turing is considered one of the greatest minds of modern science. The Turing Award—often referred to as the 'Nobel Prize of Computing'—stands as a lasting tribute to his revolutionary impact on the world."
+]
+ },
+    "achievements": [
+  "Developed a groundbreaking AI algorithm for deep learning that revolutionized neural network architectures, contributing significantly to advancements in AI research.",
+  "Awarded the prestigious Turing Award in 2010 for his outstanding contributions to the field of artificial intelligence, particularly in deep learning and cryptography.",
+  "Published over 50 research papers on AI, machine learning, and cryptography, which have been widely cited and have played a pivotal role in the development of modern AI systems.",
+  "Designed a cutting-edge AI model used in self-driving cars, which has since become an industry standard for autonomous vehicle navigation and decision-making.",
+  "Served as a keynote speaker at multiple international AI conferences, sharing his expertise on deep learning, AI ethics, and the future of AI technologies.",
+  "Developed the Quantum AI framework currently used by leading tech companies, including Google, to accelerate quantum computing research and AI integration.",
+  "Worked as an advisor for NASA's AI-driven projects, contributing to the design of advanced AI systems for space exploration and planetary research.",
+  "Founded a pioneering AI research institute at MIT, fostering innovation and collaboration among top researchers and shaping the future of AI and computational theories.",
+  "Mentored and trained over 500 Ph.D. students worldwide, many of whom have gone on to make significant contributions to AI and machine learning in academia and industry.",
+  "Authored a best-selling book on AI ethics, addressing the critical issues surrounding AI deployment, bias, and societal impact, and establishing himself as a thought leader in the ethical AI space."
+],
+
+    "research_papers": [
+  {
+    "title": "Neural Network Optimizations in AI",
+    "year": 2005,
+    "journal": "Journal of AI Research",
+    "link": "/pro/alan/nueral.pdf"
+  },
+  {
+    "title": "Deep Learning in Quantum AI",
+    "year": 2010,
+    "journal": "Quantum AI Journal",
+    "link": "/pro/alan/deep.pdf"
+  },
+  {
+    "title": "Theoretical Foundations of Machine Learning",
+    "year": 2002,
+    "journal": "Machine Intelligence Review",
+    "link": "/pro/alan/foundation.pdf"
+  },
+  {
+    "title": "AI Algorithms for Space Robotics",
+    "year": 2015,
+    "journal": "NASA AI Research Bulletin",
+    "link": "/pro/alan/robotics.pdf"
+  },
+  {
+    "title": "Reinforcement Learning in Multi-Agent Systems",
+    "year": 2020,
+    "journal": "Intelligent Systems Journal",
+    "link": "/pro/alan/multi.pdf"
+  }
+],
+"lectures": [
+  {
+    "topic": "Introduction to Deep Learning",
+    "platform": "YouTube",
+    "link": "https://www.youtube.com/watch?v=8a-2zYLzla0"
+  },
+  {
+    "topic": "Quantum Computing Basics",
+    "platform": "MIT OpenCourseWare",
+    "link": "https://www.youtube.com/watch?v=frVnzTdxcL0"
+  },
+  {
+    "topic": "AI and Cryptography: Building Secure Models",
+    "platform": "Stanford AI Lectures",
+    "link": "https://www.youtube.com/watch?v=jzcZDVDJVL0"
+  }
+]
+
+  },
+  {
+    "id": 2,
+    "subject": "physics",
+    "name": "Dr. Marie Curie",
+    "field": "Physics & Nuclear Chemistry",
+"experience": "With over 30 years of groundbreaking contributions in the fields of radioactivity and nuclear physics, Dr. Marie Curie served as a leading scientific figure at the University of Cambridge, where she not only pioneered research in radiological science but also mentored future Nobel laureates, leaving a lasting legacy in both experimental physics and academic excellence.",
+    "photo": "/photos/Marie.jpg",
+    "universities": [
+  "Sorbonne University – Dr. Curie began her groundbreaking academic journey here, where she conducted early experiments in radioactivity and later became the first woman to teach at the institution.",
+  "Harvard University – Collaborated on nuclear chemistry research during her postgraduate studies, contributing to early theories on radioactive decay and its medical applications.",
+  "Oxford University – Completed her Ph.D. in Advanced Physics and later served as a visiting professor, where she led seminars on particle theory and quantum behavior of isotopes.",
+  "Caltech (California Institute of Technology) – Participated in international scientific exchange programs, contributing to nuclear instrumentation development and atomic research collaborations.",
+  "Stanford University – Worked alongside leading physicists on radiation safety protocols and advancements in nuclear energy applications, particularly in sustainable medicine.",
+  "MIT (Massachusetts Institute of Technology) – Played an advisory role in developing nuclear imaging systems and mentored a number of doctoral candidates in applied nuclear science."
+]
+,
+   "biography": {
+  "early_life": "Born in 1965 in Warsaw, Poland, Dr. Marie Curie exhibited an extraordinary curiosity for science from a young age, particularly in the behavior and potential of radioactive elements. Her early academic brilliance and passion for discovery were nurtured in a family that valued education and critical thinking. By her teenage years, she was already conducting experiments in a home laboratory with rudimentary equipment, driven by a deep fascination for energy, atomic structure, and the invisible forces of nature.",
+  
+  "education": [
+    "B.Sc. in Physics, University of Paris (1985) – Graduated top of her class, where she laid the foundational understanding of matter and electromagnetic theory.",
+    "M.Sc. in Nuclear Chemistry, Harvard University (1988) – Specialized in radiochemical processes and decay mechanisms, contributing to early research on isotope isolation techniques.",
+    "Ph.D. in Advanced Physics, Oxford University (1992) – Her doctoral thesis focused on the quantum behavior of unstable isotopes, a study which later became fundamental in nuclear energy research and medical radiography."
+  ]
+,
+
+      "career": "Professor Marie Curie, one of the most influential scientists in history, made groundbreaking advancements in the field of radioactivity. In 1898, she discovered two new radioactive elements—polonium and radium—alongside her husband Pierre Curie. Her pioneering research not only deepened scientific understanding of atomic structure but also led to revolutionary applications in medicine and energy. She was the first woman to win a Nobel Prize, receiving the Nobel Prize in Physics in 1903, and later became the only person ever to win Nobel Prizes in two different sciences, being awarded the Nobel Prize in Chemistry in 1911 for her work on radioactivity and the isolation of radium.\n\nDuring World War I, Professor Curie applied her expertise in radiology by developing and deploying mobile X-ray units, known as 'Little Curies', which she personally operated on the front lines to assist wounded soldiers. Later in her career, she was invited to the University of Cambridge as a visiting professor and research mentor, where she continued her studies in nuclear physics and mentored young scientists, especially women striving to make their mark in scientific research.\n\nHer legacy at Cambridge is honored through continued research programs in radiological science and scholarships supporting women in STEM. Through her unparalleled dedication to science and humanity, Marie Curie laid the foundation for advancements in cancer treatment, nuclear energy, and scientific equality."
+ },
+    "achievements": [
+  "Became the first woman in history to win the Nobel Prize in Physics in 1903, awarded jointly for pioneering research on radiation phenomena.",
+  "Developed innovative laboratory techniques for isolating radioactive isotopes, laying the foundation for nuclear chemistry as a formal discipline.",
+  "Discovered two entirely new radioactive elements—Polonium and Radium—revolutionizing the field of atomic science and chemical element classification.",
+  "Achieved the historic milestone of becoming the first female professor at the University of Paris, breaking gender barriers in European academia.",
+  "Played a crucial role in the advancement of medical radiology by demonstrating the therapeutic potential of radioactive elements in disease treatment.",
+  "Pioneered early cancer treatments through radiation therapy, saving countless lives and transforming oncological science worldwide.",
+  "Established the Curie Institute for Radiation Research in Paris and Warsaw, now internationally recognized as leading centers for medical and physical research.",
+  "Received numerous honorary doctorates from prestigious institutions such as Yale, Oxford, and the University of Geneva, honoring her global influence.",
+  "Was instrumental in establishing the modern framework of nuclear physics, influencing everything from energy research to medical imaging technology.",
+  "Trained and mentored thousands of students and young researchers, including several who later made Nobel-level contributions to physics and chemistry."
+]
+,
+    "research_papers": [
+  {
+    "title": "Radioactive Elements and Their Properties",
+    "year": 1995,
+    "journal": "Journal of Nuclear Science",
+    "link": "/pro/marie/radio.pdf"
+  },
+  {
+    "title": "Applications of X-rays in Medicine",
+    "year": 2000,
+    "journal": "Medical Physics Journal",
+    "link": "/pro/marie/medicin.pdf"
+  },
+  {
+    "title": "Isolation Techniques for Radium and Polonium",
+    "year": 1998,
+    "journal": "Advanced Radiochemistry",
+    "link": "/pro/marie/polo.pdf"
+  },
+  {
+    "title": "Radioactivity and Its Role in Cancer Treatment",
+    "year": 2002,
+    "journal": "International Journal of Oncology",
+    "link": "/pro/marie/cencer.pdf"
+  },
+  {
+    "title": "Historical Evolution of Radiation Therapy",
+    "year": 2005,
+    "journal": "Cancer Treatment Reviews",
+    "link": "/pro/marie/therapy.pdf"
+  }
+],
+"lectures": [
+  {
+    "topic": "The Science of Radiation",
+    "platform": "YouTube"
+    
+  },
+  {
+    "topic": "Nuclear Chemistry and Its Applications",
+    "platform": "Coursera"
+  },
+  {
+    "topic": "Discovering Radium: A Journey Through Science",
+    "platform": "TEDx"
+  },
+  {
+    "topic": "Radiation in the Modern World",
+    "platform": "edX"
+  },
+  {
+    "topic": "Pioneering Women in Physics: A Legacy Talk",
+    "platform": "Harvard Online Learning"
+  }
+]
+
+  },
+  {
+      "id": 3,
+      "subject": "geophysics",
+      "name": "Professor Sanne Cottaar",
+      "field": "Global Seismology",
+      "experience": "Professor of Global Seismology at the University of Cambridge, specializing in Earth's internal structure using seismic data, with extensive experience in teaching, mentoring students, and leading groundbreaking research on seismic imaging of the Earth's core and mantle dynamics.",
+      "universities": [
+  "University of Cambridge – Serving as Professor of Global Seismology in the Department of Earth Sciences, focusing on the Earth's deep interior structure.",
+  "Utrecht University – Completed undergraduate studies in Earth Sciences with a strong emphasis on geophysics and seismology.",
+  "University of California, Berkeley – Conducted postdoctoral research in advanced seismic imaging techniques and deep Earth mineral physics.",
+  "ETH Zurich – Collaborated on international research projects exploring the dynamic processes of the Earth's mantle and core.",
+  "University of Oxford – Delivered guest lectures and participated in cross-institutional geophysical research programs.",
+  "Imperial College London – Engaged in collaborative work on computational modeling of seismic wave propagation.",
+  "Massachusetts Institute of Technology (MIT) – Participated in joint geophysics research and academic exchanges in Earth modeling."
+]
+,
+      "photo": "/photos/cottaar.jpg",
+      "biography": {
+  "early_life": "Professor Sanne Cottaar was born and raised in a small town, where she developed an early fascination with the natural world. Growing up, she was deeply influenced by the rugged landscapes and geological features of her environment, which sparked her interest in Earth sciences. Her academic journey began at a local school known for its strong emphasis on scientific inquiry, where her passion for physics and geology flourished. Cottaar’s curiosity was not limited to textbooks; she often spent time exploring the outdoors, keenly observing the geological formations around her. Her early life was marked by a relentless drive to understand the world beneath the surface, an interest that would later guide her to the field of geophysics. Although specific details about her childhood and family remain private, it is clear that her upbringing in an intellectually stimulating environment laid the groundwork for her future contributions to science. She later pursued higher education in Earth sciences, where her early academic experiences solidified her determination to become a leader in her field.",
+
+
+        "education": [
+  "Professor Sanne Cottaar  completed her undergraduate studies in Earth Sciences at a prestigious university, where she demonstrated exceptional academic abilities and a keen interest in the mysteries of the Earth's interior. Her time as an undergraduate was marked by her passion for geology and physics, which led her to specialize in geophysics. Driven by a deep curiosity about the Earth's structure and the tools used to explore it, Cottaar embarked on graduate studies that would shape her career.",
+  "She earned her Master's degree in Geophysics, where she focused on seismic imaging techniques, an area that would become the cornerstone of her research throughout her career. Her Master's thesis, which analyzed seismic data from tectonic plates, was widely recognized for its innovative approach to understanding Earth's dynamic processes and set the stage for her future work.",
+  "After completing her Master's degree, Professor Cottaar pursued a PhD in Geophysics, where she further expanded her expertise in seismic data analysis and its application to the study of Earth's core and mantle. Her doctoral research, which focused on the use of seismic waves to model the Earth's internal layers, received high praise for its originality and contribution to the field. During her PhD studies, Cottaar worked closely with leading experts in geophysics and contributed to several collaborative research projects that advanced the understanding of Earth's seismic activity.",
+  "Throughout her academic journey, Professor Cottaar has attended numerous specialized workshops and conferences, continuously expanding her knowledge and staying at the forefront of cutting-edge research in geophysics. Her education has been a foundation for her groundbreaking contributions to the field, and she has mentored many students at the University of Cambridge, guiding them through the complexities of geophysical research."
+]
+,
+"career": "Professor Sanne Cottaar, a distinguished geophysicist at the University of Cambridge, has devoted her career to exploring the Earth's deep interior using advanced seismic imaging techniques. Her groundbreaking research has provided crucial insights into the composition, thermal dynamics, and structural complexities of the Earth's core and mantle. She is widely recognized for her innovative methodologies in interpreting seismic data to reveal previously unknown features beneath the Earth's surface. Throughout her academic journey, Professor Cottaar has received multiple international accolades and awards for her contributions to Earth sciences, including honors inspired by the pioneering spirit of Nobel Prize-winning scientific work from 1903 and 1911. Though she was not directly involved in wartime science, her studies continue to build upon the legacy of field innovations like the 'Little Curies,' which revolutionized how scientific tools are applied to solve real-world problems. At Cambridge, she plays a vital mentorship role, nurturing the next generation of geoscientists through research supervision and interdisciplinary collaboration. Her influence extends globally through published work, public lectures, and leadership in international seismic research initiatives. Professor Cottaar’s career stands as a testament to the enduring impact of academic excellence and scientific curiosity on our understanding of the natural world."
+      },
+      "achievements": [
+  "Professor Sanne Cottaar has made monumental contributions to the field of geophysics, publishing numerous influential research papers that have significantly advanced our understanding of the Earth's internal structure. Her work has helped unravel the complexities of the Earth's core and mantle, offering crucial insights into its composition, thermal properties, and dynamics. Through her pioneering seismic imaging techniques, she has provided new models for understanding the behavior of the planet's deep layers.",
+  "In addition to her scholarly publications, Professor Cottaar has received various prestigious awards and accolades, including recognition from international scientific communities for her innovative methodologies in seismic data interpretation. Her work has earned her a spot among the leading geophysicists of her generation, with her research often cited in studies related to Earth's interior and plate tectonics.",
+  "Professor Cottaar’s influence also extends to mentorship at the University of Cambridge, where she has guided and inspired countless students and early-career researchers. Her commitment to nurturing the next generation of geophysicists has earned her respect both as an educator and as a researcher. Through her work at Cambridge, she has helped shape the future of Earth science by fostering an environment of curiosity and rigorous scientific inquiry.",
+  "While Professor Cottaar’s primary focus is on geophysics, she also draws inspiration from historical scientific innovations, such as the 'Little Curies' used during World War I, which integrated science into real-world applications. This spirit of innovation continues to define her work, as she constantly seeks new ways to apply her research for the benefit of humanity.",
+  "Today, her legacy continues to influence modern science, as her findings on seismic activity and the Earth's inner workings have laid the foundation for future advancements in both academic and applied research. Professor Cottaar's contributions will undoubtedly have a lasting impact on geophysics for years to come."
+],
+
+      "research_papers": [
+  {
+    "title": "Seismic Structure of the Earth's Inner Core",
+    "year": 2019,
+    "journal": "Journal of Geophysical Research",
+    "link": "/sanne/2019.pdf",
+    "summary": "This paper investigates the seismic properties of the Earth's inner core, providing new insights into its composition and behavior. Using advanced seismic imaging techniques, Professor Cottaar and her team were able to map the core's structure with unprecedented accuracy, shedding light on the mechanisms driving Earth's magnetic field and its thermal evolution."
+  },
+ 
+  {
+    "title": "Tectonic Plate Dynamics: Implications for Seismic Activity",
+    "year": 2018,
+    "journal": "Earth and Planetary Science Letters",
+    "link": "/sanne/2018.pdf",
+    "summary": "This paper explores the dynamics of tectonic plate movements and their direct correlation with seismic activity. Professor Cottaar’s research has contributed to a deeper understanding of earthquake prediction models and has implications for disaster preparedness in seismically active regions."
+  },
+  
+  {
+    "title": "The Role of Seismic Anisotropy in Earth's Deep Mantle Convection",
+    "year": 2022,
+    "journal": "Science Advances",
+    "link": "/sanne/2022.pdf",
+    "summary": "This study delves into seismic anisotropy within Earth’s deep mantle and its influence on mantle convection. Professor Cottaar’s findings have provided new perspectives on the mantle’s thermal and compositional heterogeneity, significantly impacting the understanding of planetary differentiation processes."
+  },
+  {
+    "title": "Exploring Earth’s Crustal Deformation through Seismic Waves",
+    "year": 2017,
+    "journal": "Journal of Structural Geology",
+    "link": "/sanne/2017.pdf",
+    "summary": "In this paper, Professor Cottaar investigates the deformation processes within Earth's crust, using seismic waves to study fault systems and their relation to seismic hazards. The research has contributed to more accurate assessments of fault activity and earthquake risks in various geological settings."
+  }
+
+
+      ],
+    "lectures": [
+  {
+    "topic": "Understanding Earth's Deep Interior",
+    "platform": "YouTube",
+    "summary": "In this lecture, Professor Cottaar explores the inner structure of the Earth, focusing on seismic methods to study the core and mantle. She explains the latest research on Earth's deep interior and the techniques used to gather seismic data, making complex concepts accessible to a broad audience."
+  },
+  {
+    "topic": "Seismic Waves and Earth's Crust: A Comprehensive Overview",
+    "platform": "Coursera",
+    "summary": "Professor Cottaar presents a detailed course on seismic waves and their role in understanding the Earth's crust. This lecture covers the fundamentals of seismic waves, their propagation, and how they are used to analyze geological formations and fault systems."
+  },
+  {
+    "topic": "Plate Tectonics and Earthquakes: The Seismic Connection",
+    "platform": "TEDx",
+    "summary": "In this TEDx talk, Professor Cottaar discusses the relationship between plate tectonics and seismic activity. She highlights the seismic hazards associated with tectonic plate movements and shares insights into earthquake prediction and prevention."
+  },
+  {
+    "topic": "Innovations in Seismic Imaging: Advancing Geophysical Research",
+    "platform": "Vimeo",
+    "summary": "This lecture showcases the latest advancements in seismic imaging techniques and their applications in geophysics. Professor Cottaar demonstrates how innovative methods are improving our ability to map the Earth's interior and enhance our understanding of deep Earth processes."
+  },
+  {
+    "topic": "Geophysical Methods for Environmental Studies",
+    "platform": "edX",
+    "summary": "In this course, Professor Cottaar explains the use of geophysical methods, including seismic studies, for environmental monitoring and research. The lecture covers applications in natural resource exploration, environmental impact assessment, and disaster risk reduction."
+  },
+  {
+    "topic": "The Role of Seismology in Understanding Natural Disasters",
+    "platform": "LinkedIn Learning",
+    "summary": "This LinkedIn Learning course offers an overview of how seismology is used to understand and predict natural disasters like earthquakes and volcanic eruptions. Professor Cottaar covers the essential techniques for studying seismic hazards and their societal impact."
+  },
+  {
+    "topic": "Seismic Anisotropy: Implications for Earth's Mantle Convection",
+    "platform": "Zoom Webinar",
+    "summary": "In this webinar, Professor Cottaar delves into the concept of seismic anisotropy and its significance in the study of mantle convection. She discusses the effects of anisotropy on the Earth's mantle dynamics and its implications for the planet's thermal history."
+  },
+  {
+    "topic": "Seismic Imaging Techniques for the Earth's Core and Mantle",
+    "platform": "ResearchGate Webinar",
+    "summary": "This lecture covers advanced seismic imaging techniques used to study Earth's core and mantle. Professor Cottaar provides insights into the methods of imaging seismic waves and their role in understanding Earth's internal processes."
+  }
+],
+"social_media": {
+  "LinkedIn": "https://www.linkedin.com/in/sanne-cottaar-123456789/",
+  "Twitter": "https://twitter.com/sanne_cottaar",
+  "ResearchGate": "https://www.researchgate.net/profile/Sanne_Cottaar"
+}
+
+    },
+    {
+      "id": 4,
+      "subject": "biotechnology",
+      "name": "Dr. Nicola Patron",
+      "field": "Biotechnology",
+      "experience": "Dr. Nicola Patron is a globally renowned expert in biotechnology, specializing in the integration of plant systems with synthetic biology to revolutionize agricultural practices and pharmaceutical production. With over 25 years of research experience, her work continues to pave the way for more sustainable and cost-effective solutions in food production, climate resilience, and medical advancements.",
+      "universities": [
+        "University of Cambridge – Senior Research Fellow, Department of Plant Sciences, where she leads projects on genetic engineering and plant biotechnology.",
+        "University of California, Berkeley – Collaborated on high-impact projects in synthetic biology and plant-microbe interactions.",
+        "ETH Zurich – Conducted pioneering research on plant resilience under climate change and the use of genetically modified crops for environmental sustainability.",
+        "Harvard University – Research on synthetic biology applications in agriculture and biopharmaceuticals.",
+        "Stanford University – Focused on advancing plant systems to produce high-value pharmaceuticals and biofuels.",
+        "University of Edinburgh – Worked on genetic pathways in plants, contributing to the understanding of molecular mechanisms for crop enhancement."
+      ],
+      "photo": "/photos/nicola.jpg",
+      "biography": {
+        "early_life": "Dr. Nicola Patron was born in a small rural town where she spent much of her childhood surrounded by nature. From an early age, she developed an interest in how plants grow and the potential of biotechnology to address global challenges such as food scarcity and medical advancements. This led her to pursue a career where she could combine her love of science and her commitment to solving pressing global issues.",
+        "education": [
+          "Ph.D. in Plant Biotechnology, University of Cambridge (2004) – Focused on the genetic engineering of plants to improve food production and enhance resilience to climate change. Her doctoral research made significant contributions to understanding the potential of genetically modified plants in sustainable agriculture.",
+          "M.Sc. in Plant Science, University of Edinburgh (2000) – Specialized in molecular biology, plant physiology, and the development of biotechnological applications in agriculture.",
+          "B.Sc. in Biology, University of Southampton (1997) – A comprehensive program in biology, focusing on genetics, ecology, and plant biology, which laid the foundation for her later work in plant biotechnology."
+        ],
+        "career": "Dr. Patron’s career has been focused on transforming how biotechnology is used in agriculture and medicine. Throughout her career, she has specialized in creating genetically engineered plants for food security, developing sustainable crop solutions, and leveraging plant systems for pharmaceutical production. Her early work in synthetic biology made strides in genetically modified crops that are more resilient to environmental stresses and diseases, laying the groundwork for her continued success. At the University of Cambridge, Dr. Patron leads several collaborative international projects focused on using plants as 'factories' for producing life-saving drugs. She has also pioneered the use of synthetic biology to enhance the quality of food production, leading to healthier crops and improved nutrition."
+      },
+      "achievements": [
+        "Pioneered cutting-edge synthetic biology techniques that significantly advanced the engineering of plants for pharmaceutical production.",
+        "First to develop a plant-based platform for large-scale production of vaccines and therapeutic proteins, revolutionizing the pharmaceutical industry.",
+        "Her work in climate-resilient crops led to breakthroughs in agriculture, improving crop yields in challenging environments and ensuring food security.",
+        "Awarded the prestigious Royal Society Fellowship for her outstanding contributions to plant biotechnology and sustainable agriculture.",
+        "Recipient of the Global Food Security Award for her contributions to the biotechnology of crops for better nutrition and sustainability.",
+        "A frequent keynote speaker at international biotechnology conferences, where she discusses the future of genetically engineered crops and plant biotechnology.",
+        "Authored over 75 research papers on plant biotechnology, genetic engineering, and synthetic biology, contributing to the development of new technologies for global food production.",
+        "Trained over 200 students in the fields of biotechnology, many of whom are now leaders in their own research labs and institutions worldwide."
+      ],
+      "research_papers": [
+        {
+          "title": "Synthetic Biology Approaches in Plant Systems",
+          "year": 2020,
+          "journal": "Plant Biotechnology Journal",
+          "link": "/nicola/2020.pdf"
+        },
+        {
+          "title": "Harnessing Plant-based Systems for Pharmaceutical Production",
+          "year": 2018,
+          "journal": "Journal of Plant Molecular Biology",
+          "link": "/nikola/2018.pdf"
+        },
+        {
+          "title": "Advances in Plant Synthetic Biology",
+          "year": 2017,
+          "journal": "Trends in Biotechnology",
+          "link": "/nicola/2017.pdf"
+        },
+        
+        {
+          "title": "Genetically Engineered Plants for Improved Nutrition and Disease Resistance",
+          "year": 2015,
+          "journal": "Plant Journal",
+          "link": "/nicola/2015.pdf"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Advancements in Plant Biotechnology",
+          "platform": "YouTube"
+        },
+        {
+          "topic": "Genetic Engineering in Crop Improvement",
+          "platform": "Coursera"
+        },
+        {
+          "topic": "The Future of Food Security: Plant Biotechnology’s Role",
+          "platform": "TEDx"
+        },
+        {
+          "topic": "From Lab to Field: Applying Biotechnology in Agriculture",
+          "platform": "MIT OpenCourseWare"
+        },
+        {
+          "topic": "The Role of Synthetic Biology in the Future of Agriculture",
+          "platform": "Stanford University Lectures"
+        },
+        {
+          "topic": "Plant-Based Vaccines and Their Global Impact",
+          "platform": "Harvard University Online"
+        }
+      ],
+      "social_media": {
+        "Twitter": "https://twitter.com/nicolapatron",
+        "LinkedIn": "https://www.linkedin.com/in/dr-nicola-patron",
+        "ResearchGate": "https://www.researchgate.net/profile/Dr_Nicola_Patron"
+      }
+    }
+,    
+{
+  "id": 5,
+  "subject": "astrophysics",
+  "name": "Professor Hiranya Peiris",
+  "field": "Astrophysics",
+  "experience": "Professor of Astrophysics at the University of Cambridge, Professor Hiranya Peiris is internationally recognized for her work in cosmology, focusing on fundamental questions about the universe, its origin, evolution, and large-scale structure. She has contributed extensively to the study of the cosmic microwave background and the role of dark matter in the formation of the universe.",
+  "universities": [
+    "University of Cambridge – Professor of Astrophysics, Department of Applied Mathematics and Theoretical Physics, where she leads research in cosmology and astrophysics.",
+    "University College London – Former researcher and lecturer in cosmology, where she conducted foundational work on the large-scale structure of the universe.",
+    "Princeton University – Contributed to projects on dark matter, cosmic inflation, and gravitational waves.",
+    "California Institute of Technology (Caltech) – Collaborated on research involving cosmic radiation and the early universe."
+  ],
+  "photo": "/photos/hiranya.jpg",
+  "biography": {
+    "early_life": "Born in Colombo, Sri Lanka, Professor Hiranya Peiris developed an early fascination with the universe and its vastness. Growing up, she spent hours gazing at the stars, sparking her lifelong interest in cosmology. Her journey into astrophysics was guided by a deep curiosity about the origins of the universe and the fundamental forces that govern it. This curiosity led her to study mathematics and physics in her early academic career, before focusing on astrophysics in her higher education.",
+    "education": [
+      "Ph.D. in Astrophysics, University of Cambridge (2006) – Her doctoral research on the cosmic microwave background and its implications for the early universe established her as a leading expert in cosmology.",
+      "M.Sc. in Theoretical Physics, University of London (2001) – Specialization in theoretical cosmology, focusing on the structure and evolution of the universe.",
+      "B.Sc. in Physics, University of Colombo, Sri Lanka (1998) – Graduated with honors, focusing on classical mechanics and quantum theory, with early research into cosmological models."
+    ],
+    "career": "Professor Peiris has dedicated her career to answering some of the most profound questions about the universe. Her research explores the cosmic microwave background (CMB), dark energy, dark matter, and the large-scale structure of the cosmos. As part of her career, she has worked with top-tier research teams around the world, contributing to multiple groundbreaking projects such as the Planck mission, which provided unprecedented data on the early universe. Her current research focuses on understanding the nature of dark matter and dark energy, as well as the process of cosmic inflation during the Big Bang. Throughout her career, she has been a strong advocate for interdisciplinary collaboration, bringing together physicists, mathematicians, and astronomers to tackle questions about the origins and evolution of the universe."
+  },
+  "achievements": [
+    "Recipient of the Maxwell Medal and Prize from the Institute of Physics for her outstanding contribution to the study of cosmology and the early universe.",
+    "Key researcher in the European Space Agency's Planck mission, which mapped the cosmic microwave background and provided crucial data on the universe's age, composition, and structure.",
+    "Published over 50 high-impact research papers on the topics of dark matter, dark energy, and the large-scale structure of the universe.",
+    "Awarded the prestigious Philip Leverhulme Prize for her innovative work in cosmology and astrophysics.",
+    "Honored as a fellow of the Royal Astronomical Society (FRAS) for her contributions to theoretical astrophysics.",
+    "Delivered keynote speeches at major international conferences, including the International Astronomical Union (IAU) and the European Space Agency (ESA).",
+    "Co-authored a widely cited textbook on cosmology, which is used by students and researchers around the world.",
+    "Pioneered research that linked the formation of galaxies with cosmic inflation, helping to illuminate the processes that occurred immediately after the Big Bang.",
+    "Mentored and trained over 100 graduate students, many of whom have gone on to make significant contributions to the field of astrophysics."
+  ],
+  "research_papers": [
+    {
+      "title": "Cosmic Microwave Background Anisotropies: Implications for Early Universe",
+      "year": 2018,
+      "journal": "Physical Review Letters",
+      "link": "/hirana/microwave.pdf"
+    },
+    {
+      "title": "Dark Matter and Its Role in Galaxy Formation",
+      "year": 2017,
+      "journal": "Astrophysical Journal",
+      "link": "/hirana/dark.pdf"
+    },
+    {
+      "title": "Gravitational Waves and Their Role in Testing General Relativity",
+      "year": 2015,
+      "journal": "Physical Review D",
+      "link": "/hirana/gravitational.pdf"
+    },
+    {
+      "title": "Exploring the Early Universe with the Planck Satellite",
+      "year": 2014,
+      "journal": "Astronomy and Astrophysics",
+      "link": "/hirana/satelite.pdf"
+    }
+  ],
+  "lectures": [
+    {
+      "topic": "The Big Bang and Beyond: Exploring the Origins of the Universe",
+      "platform": "YouTube"
+    },
+    {
+      "topic": "Dark Matter: The Invisible Force Shaping Our Universe",
+      "platform": "Coursera"
+    },
+    {
+      "topic": "Cosmic Inflation and Its Implications for the Early Universe",
+      "platform": "MIT OpenCourseWare"
+    },
+    {
+      "topic": "Gravitational Waves and Their Importance in Modern Astrophysics",
+      "platform": "Stanford Online"
+    },
+    {
+      "topic": "The Structure of the Universe: From Big Bang to Present Day",
+      "platform": "Harvard University Online"
+  }
+  ],
+  "social_media": {
+    "Twitter": "https://twitter.com/hiranyapeiris",
+    "LinkedIn": "https://www.linkedin.com/in/hiranya-peiris",
+    "ResearchGate": "https://www.researchgate.net/profile/Hiranya_Peiris"
+  }
+}
+,
+{
+  "id": 6,
+  "subject": "religion",
+  "name": "Professor Julius Lipner",
+  "field": "Hinduism and Comparative Religion",
+  "experience": "Emeritus Professor of Hinduism and Comparative Religion at the University of Cambridge, Professor Julius Lipner has spent over four decades researching and teaching Hinduism, comparative religion, and theological studies. His expertise lies in the study of classical and contemporary Hindu thought, with a particular focus on the Vedantic tradition and the interpretation of sacred texts within the broader scope of world religions.",
+  "universities": [
+    "University of Cambridge – Emeritus Professor in the Faculty of Divinity, where he taught courses on Hinduism, comparative religion, and the philosophy of religion.",
+    "University of Oxford – Former Visiting Professor in the Department of Theology, where he contributed to advanced theological and religious studies.",
+    "Harvard University – Research Fellow in the Department of Religious Studies, focusing on the comparative study of religious philosophies and the intersection of Hinduism and other world religions.",
+    "School of Oriental and African Studies (SOAS), University of London – Lecturer in Indian Philosophy and Religion, where he developed courses on Vedanta and the religious traditions of South Asia."
+  ],
+  "photo": "/photos/julius.jpg",
+  "biography": {
+    "early_life": "Professor Lipner was born in 1942 in the United Kingdom. He developed an early fascination with theology, philosophy, and religion, particularly in relation to Eastern religious traditions. Raised in a family with an academic background, he was encouraged to pursue his interests in philosophy and religion, leading him to study the theological traditions of both the East and the West. His academic journey was inspired by a deep desire to understand religious diversity and the philosophical dimensions of sacred texts.",
+    "education": [
+      "Ph.D. in Theology, University of Cambridge (1972) – His doctoral dissertation explored the Vedantic philosophy of Ramanuja and its implications for modern religious thought. This seminal work set the foundation for his career in the study of Hinduism and comparative religion.",
+      "M.A. in Indian Philosophy, University of Oxford (1967) – Specializing in the philosophical schools of India, particularly Vedanta and the early Upanishads.",
+      "B.A. in Theology and Religious Studies, University of London (1964) – Focused on comparative religion, with a particular interest in the theological and philosophical developments in South Asian religious traditions."
+    ],
+    "career": "Professor Lipner's career spans over four decades of teaching, research, and publication in the fields of Hinduism, comparative religion, and religious philosophy. As a scholar of Hinduism, he has contributed significantly to the understanding of Vedantic thought, particularly the work of Ramanuja, and its place within both classical Hindu philosophy and modern theological discourse. His academic career has been defined by his ability to bridge the study of Eastern and Western religious traditions, offering new perspectives on the interrelations between various faiths. He has written extensively on Hindu philosophy, theology, and religious practice, and his works are widely regarded as authoritative texts in the study of Hinduism. Throughout his career, Professor Lipner has been a strong advocate for intercultural and interreligious dialogue, promoting understanding between the diverse religious traditions of the world."
+  },
+  "achievements": [
+    "Elected Fellow of the British Academy in recognition of his exceptional contribution to the study of Hinduism and comparative religion.",
+    "Author of several influential books, including 'Hinduism: The Religious Traditions of India,' a key text used in universities worldwide for the study of Hindu thought and practice.",
+    "Recipient of the prestigious 'Shastri Indo-Canadian Institute Fellowship,' supporting research on Hindu philosophy and comparative religious studies.",
+    "Awarded the 'Lifetime Achievement Award' by the International Association of Hindu Studies for his lifetime contribution to the academic study of Hinduism.",
+    "Co-founder of the 'Cambridge Forum for Comparative Religion,' an interdisciplinary research center focused on dialogue and scholarship across religious traditions.",
+    "Delivered keynote lectures at international conferences, including the 'World Congress of Comparative Religion' and the 'International Hindu Studies Symposium'.",
+    "Worked extensively with Indian scholars and spiritual leaders, promoting deeper understanding between academic and spiritual traditions in the study of Hinduism.",
+    "Mentored over 50 Ph.D. students, many of whom have gone on to hold prominent academic positions in the study of religion."
+  ],
+  "research_papers": [
+    
+    {
+      "title": "The Role of Bhakti in the Vedantic Tradition: A Comparative Study of Ramanuja and Shankara",
+      "year": 1995,
+      "journal": "International Journal of Hindu Studies",
+      "link": "/julius/bhakti.pdf"
+    },
+    {
+      "title": "Hinduism and the Philosophy of Non-Dualism: A Critical Examination of Advaita Vedanta",
+      "year": 2001,
+      "journal": "Philosophy East and West",
+      "link": "/julius/hindu.pdf"
+    },
+    {
+      "title": "The Concept of Dharma in Hinduism: Its Application and Interpretation",
+      "year": 2008,
+      "journal": "Journal of Religious Studies",
+      "link": "/julius/dharma.pdf"
+    },
+    {
+      "title": "Understanding Hindu Ethics: Perspectives from Classical and Contemporary Texts",
+      "year": 2012,
+      "journal": "Religious Studies Review",
+      "link": "/julius/ethics.pdf"
+    }
+  ],
+  "lectures": [
+    {
+      "topic": "Understanding Hinduism: An Introduction to the Philosophy and Practices",
+      "platform": "YouTube"
+    },
+    {
+      "topic": "Vedanta and the Nature of Reality: Insights from Ramanuja",
+      "platform": "Coursera"
+    },
+    {
+      "topic": "Comparative Religion: Hinduism and the Abrahamic Faiths",
+      "platform": "Harvard Online"
+    },
+    {
+      "topic": "The Nature of the Self: Exploring Hindu and Buddhist Perspectives",
+      "platform": "Oxford University Podcast"
+    },
+    {
+      "topic": "Hinduism and the Modern World: Reinterpretations and Innovations",
+      "platform": "MIT OpenCourseWare"
+    }
+  ],
+  "social_media": {
+    "LinkedIn": "https://www.linkedin.com/in/julius-lipner-123456789/",
+    "ResearchGate": "https://www.researchgate.net/profile/Julius_Lipner"
+  }
+}
+,
+{
+  "id": 7,
+  "subject": "sanskrit",
+  "name": "Professor Vincenzo Vergiani",
+  "field": "Sanskrit",
+  "experience": "Professor Vincenzo Vergiani is a leading scholar in the field of Sanskrit and ancient Indian literature. He holds the position of Professor of Sanskrit at the University of Cambridge, where he has taught for over 25 years. Professor Vergiani specializes in the grammar, literature, and philosophy of Sanskrit, and his research focuses on both the classical and Vedic aspects of the language, its syntax, and its role in the wider Indo-European language family.",
+  "universities": [
+  
+    "Name : University of Cambridge",
+    "Role : Professor of Sanskrit",
+    "Department : Department of South Asian Studies",
+    "Duration : 1995 - Present",
+    "Details : At the University of Cambridge, Professor Vincenzo Vergiani has been a key member of the Department of South Asian Studies since 1995. He has taught and mentored countless students in Sanskrit, classical literature, and Indian philosophy. Under his guidance, many doctoral students have completed their theses on various aspects of Sanskrit grammar and ancient Indian texts. His work at Cambridge has cemented his reputation as one of the foremost scholars in Sanskrit and Vedic studies.",
+
+
+    "Name : Harvard University",
+    "Role : Visiting Professor in Sanskrit and Indo-European Linguistics",
+    "Department : Department of South Asian Studies",
+    "Duration : 2005 - 2007",
+    "Details : During his tenure as a visiting professor at Harvard University, Professor Vergiani delivered groundbreaking lectures on Sanskrit grammar and its connections to Indo-European linguistics. He collaborated with Harvard faculty on comparative linguistic research and helped strengthen the university’s curriculum on ancient Indian languages. His contributions to Harvard’s South Asian Studies department were instrumental in developing advanced coursework on Sanskrit syntax and historical linguistics."
+  
+  ,
+    "Name : University of Bologna",
+    "Role : Lecturer in Sanskrit and Comparative Linguistics",
+    "Department : Department of Asian Studies",
+    "Duration : 1990 - 1995",
+    "Details : Professor Vergiani began his academic career at the University of Bologna, where he served as a lecturer in Sanskrit and Indo-European linguistics. His time at Bologna was marked by his pioneering work on Vedic Sanskrit and its grammatical structure, which laid the foundation for his future research. During this period, he developed key academic resources for students learning Sanskrit and Indo-European languages. His contributions were vital in shaping the university’s research and academic approach to South Asian studies."
+  
+  ,
+    "Name : University of Oxford",
+    "Role : Guest Lecturer in Vedic Sanskrit",
+    "Department : Faculty of Oriental Studies",
+    "Duration :  2010 - 2012",
+    "Details : At the University of Oxford, Professor Vergiani delivered specialized guest lectures on Vedic Sanskrit, exploring the language’s roots in ancient Indian texts and its linguistic evolution. His lectures were part of Oxford's distinguished program on Indology, where he provided students with deep insights into the connections between Sanskrit and other classical languages of the Indo-European family."
+  ,
+  
+    "Name : Columbia University",
+    " Role : Adjunct Professor of Sanskrit and Ancient Indian Literature",
+     "Department : Department of Middle Eastern, South Asian, and African Studies",
+    "Duration : 2013 - 2015",
+     "Details : During his tenure as an adjunct professor at Columbia University, Professor Vergiani taught a series of graduate-level seminars on ancient Indian literature, including texts like the Rigveda and Upanishads. His courses were well-received for their intellectual depth and rigorous approach to Sanskrit philology. He also participated in the university’s research initiatives on Indo-European languages and contributed to various interdisciplinary projects."
+  
+]
+,
+  "photo": "/photos/vanzo.jpg",
+  "biography": {
+    "early_life": "Professor Vincenzo Vergiani was born in Rome, Italy, in 1960. His fascination with ancient languages began during his childhood when he first encountered the rich linguistic history of the Indo-European family. Growing up in an academic family, he was inspired to pursue classical languages and, later, Sanskrit. His early academic journey led him to the University of Bologna, where he began his formal studies in Sanskrit and its historical roots in the broader context of ancient Indo-European languages.",
+    "education": [
+      "Ph.D. in Sanskrit Studies, University of Bologna (1988) – Dissertation focused on 'The Role of Sanskrit in the Development of Ancient Indian Grammar'.",
+      "M.A. in Classical Languages, University of Rome La Sapienza (1984) – Specialized in Sanskrit and Ancient Greek grammar, with a focus on comparative syntax.",
+      "B.A. in Linguistics, University of Florence (1981) – Graduated with a focus on Indo-European languages, completing a thesis on the syntactical structure of Vedic Sanskrit."
+    ],
+    "career":[ "After completing his Ph.D., Professor Vergiani began his academic career at the University of Bologna, where he was a lecturer in Sanskrit and Indo-European linguistics. In 1995, he accepted a position at the University of Cambridge, where he has become an internationally recognized scholar in the field. His teaching covers a wide range of topics, including Vedic Sanskrit, classical Sanskrit literature, Indian philosophy, and comparative grammar. He is particularly known for his expertise in Vedic texts and their impact on the development of linguistic theory.",
+     "Professor Vergiani has made substantial contributions to the understanding of Sanskrit grammar, including the exploration of its early forms and their connections to other Indo-European languages. His research into the development of Sanskrit's syntactical structure has provided new insights into the language's evolution and its grammatical complexities. Additionally, his work on the Vedic and Upanishadic texts has opened new avenues for understanding ancient Indian philosophy and linguistics."]
+  },
+  "achievements": [
+    "Published extensively on Sanskrit grammar and literature, with over 40 academic papers in journals such as the 'Journal of Sanskrit Studies', 'Indological Studies', and 'Indian Linguistics'.",
+    "Author of the widely acclaimed book 'A Grammar of Classical Sanskrit', which serves as an essential text for both students and scholars of Sanskrit.",
+    "Member of the Editorial Board for 'Indological Studies Journal', a leading publication in the field of Sanskrit and Indian philosophy.",
+    "Recipient of the 'International Award for Sanskrit Studies' in recognition of his pioneering work on Sanskrit grammar and linguistics.",
+    "Visiting Scholar at Harvard University, where he collaborated on research exploring the role of Sanskrit in the development of Indo-European languages.",
+    "Recipient of the 'Distinguished Scholar Award' from the European Association for Sanskrit Studies for his lifelong contribution to the study of Sanskrit.",
+    "Created an online platform that offers free resources for students learning Vedic Sanskrit, which has been widely used by institutions around the world.",
+    "Recipient of several grants from the National Endowment for the Humanities (NEH) for his research on ancient Indian philosophical texts and their linguistic structure."
+  ],
+  "research_papers": [
+    {
+      "title": "The Grammar of the Sanskrit Language",
+      "year": 2005,
+      "journal": "Journal of Sanskrit Studies",
+      "link": "/virg/2005.pdf"
+    },
+   
+    {
+      "title": "Sanskrit and the Indo-European Linguistic Family: A Historical Perspective",
+      "year": 2012,
+      "journal": "Historical Linguistics Review",
+      "link": "/virg/2012.pdf"
+    },
+    {
+      "title": "The Vedic Syntax: A Study of Ancient Indian Grammatical Structure",
+      "year": 2015,
+      "journal": "Indology Today",
+      "link": "/virg/2015.pdf"
+    },
+    {
+      "title": "The Role of Sanskrit in the Development of Indo-European Language Theory",
+      "year": 2018,
+      "journal": "Linguistic Theory and Method",
+      "link": "/virg/2018.pdf"
+    }
+  ],
+  "lectures": [
+    {
+      "topic": "Introduction to Sanskrit Literature",
+      "platform": "YouTube"
+    },
+    {
+      "topic": "The Evolution of Sanskrit Grammar",
+      "platform": "Coursera"
+    },
+    {
+      "topic": "Sanskrit and Its Influence on Indo-European Languages",
+      "platform": "Harvard Online"
+    },
+    {
+      "topic": "The Role of Sanskrit in Ancient Indian Philosophy",
+      "platform": "MIT OpenCourseWare"
+    },
+    {
+      "topic": "Advanced Sanskrit Syntax: Comparative Analysis with Other Indo-European Languages",
+      "platform": "University of Cambridge"
+    }
+  ],
+  "social_media": {
+    "LinkedIn": "https://www.linkedin.com/in/vincenzo-vergiani-123456789/",
+    "ResearchGate": "https://www.researchgate.net/profile/Vincenzo_Vergiani",
+    "Academia.edu": "https://cambridge.academia.edu/VincenzoVergiani"
+  }
+}
+,
+{
+  "id": 8,
+  "subject": "Environmental Science",
+  "name": "Dr. Emily Watson",
+  "field": "Environmental Science",
+"experience": "20+ years Dr. Emily Watson brings over two decades of extensive experience in environmental science, climate research, and sustainability advocacy. Throughout her career, she has held influential academic, research, and advisory positions at prestigious institutions such as the University of Cambridge, Yale, UC Berkeley, and the University of Oxford. Her work spans interdisciplinary environmental research, global climate policy development, and community-focused sustainability initiatives. With a strong record in both scientific innovation and education, she has mentored the next generation of environmental leaders while making impactful contributions to global ecological conservation and climate resilience.",
+  "photo": "/photos/Dr Emily.jpg",
+  "universities": [
+  
+  
+    "Name : University of Cambridge",
+    "Role : Senior Researcher, Climate Change",
+    "Duration : 2003 - Present",
+    "Details : Dr. Watson has been a prominent figure in the Department of Environmental Science at Cambridge University, where she conducts advanced research on climate change impacts and sustainability practices. Her work on Arctic ecosystems has significantly influenced international climate policy.",
+
+    "Name : Yale University",
+    "Role : Assistant Professor, Environmental Biology",
+    "Duration : 1998 - 2003",
+    "Details : At Yale University, Dr. Watson taught undergraduate and postgraduate courses on environmental science and ecological research. She was involved in the development of environmental policy courses and research on ecosystem-based approaches to conservation.",
+
+    "Name : UC Berkeley",
+    "Role : Postdoctoral Researcher, Climate Change",
+    "Duration : 2003",
+    "Details : Dr. Watson’s postdoctoral research at UC Berkeley focused on climate change, particularly its effects on the Arctic region. Her research contributed to several published papers that helped set the groundwork for later global policy efforts.",
+
+    "Name : University of Oxford",
+    "Role : Visiting Scholar",
+    "Duration : 2010 - 2012",
+    "Details : Dr. Watson worked as a Visiting Scholar at Oxford University, where she collaborated with leading environmental scientists on research regarding ocean acidification and climate-resilient ecosystems. Her contributions during this period have had a lasting impact on environmental science curricula."
+
+  ],
+  "biography": {
+    "early_life": "Dr. Emily Watson grew up in coastal Maine, where she developed a deep love for nature and the environment. From a young age, she was fascinated by the complexities of ecosystems and the challenges posed by climate change. Her early experiences in the coastal areas shaped her career path towards environmental science.",
+   "education": [
+  "B.Sc. in Environmental Biology, Yale University (1995) – Dr. Emily Watson completed her undergraduate studies at Yale University, where she gained a foundational understanding of ecological systems, biodiversity, and environmental challenges. During this time, she actively participated in fieldwork projects and research focused on coastal ecosystems.",
+  
+  "M.Sc. in Ecology, University of Cambridge (1998) – At the University of Cambridge, she pursued her Master's degree, concentrating on ecosystem dynamics and climate-ecosystem interactions. Her thesis focused on the impact of deforestation on regional climate systems, which later inspired her doctoral research.",
+  
+  "Ph.D. in Climate Change, UC Berkeley (2003) – Dr. Watson earned her doctorate at UC Berkeley, where she specialized in climate change science. Her groundbreaking dissertation explored the long-term effects of rising global temperatures on Arctic ice melt and its implications for global sea levels. Her work contributed to influential climate policy discussions at the time."
+]
+,
+"career": [
+  "Renowned Environmental Scientist and Climate Policy Advisor",
+  "Dr. Emily Watson is a distinguished environmental scientist with a career spanning over two decades in climate science, sustainability, and global environmental policy. Her expertise lies in the areas of climate change, ocean acidification, and sustainable agricultural development.",
+  
+    "Began her career researching climate systems and ecological impacts, with a strong focus on the Arctic region's sensitivity to global warming.",
+    "Worked as a climate change policy advisor for international organizations, including the United Nations Climate Change Panel, influencing key global agreements on emissions and sustainability strategies.",
+    "Led multiple high-impact research initiatives on ocean acidification, contributing critical insights to marine conservation efforts and influencing ocean governance frameworks.",
+    "Pioneered the development of climate-resilient farming systems adopted in drought-prone and flood-affected communities worldwide.",
+    "Founded the GreenFuture Initiative — a global nonprofit dedicated to promoting climate awareness, sustainable living, and community-driven environmental action.",
+    "Collaborated with scientists and policymakers across institutions such as the University of Cambridge, Yale University, and UC Berkeley to bridge the gap between academic research and practical environmental solutions.",
+    "Delivered influential TED talks and keynote speeches at global sustainability conferences, inspiring action and policy reform through accessible science communication."
+  ]
+
+  },
+  "achievements": [
+  "Led groundbreaking research on ocean acidification and its global environmental impact – Dr. Watson's work identified key processes driving ocean acidification and projected its long-term effects on marine biodiversity and global food chains, influencing multiple international marine conservation efforts.",
+
+  "Served as an advisor to the United Nations Climate Change Panel – Contributed scientific expertise to major climate policy reports and participated in international negotiations, helping shape the IPCC’s climate adaptation and mitigation strategies.",
+
+  "TED speaker on sustainability – Delivered a widely acclaimed TED Talk on the urgency of climate action and the role of community-led initiatives in sustainability, viewed by over 2 million people worldwide.",
+
+  "Awarded the Global Ecology Prize (2012) – Honored for her pioneering research in climate science, particularly her contributions to understanding Arctic ecosystem vulnerabilities and their global implications.",
+
+  "Founded the GreenFuture Initiative – Launched this global nonprofit to empower local communities with tools, education, and resources for sustainable living and grassroots climate resilience.",
+
+  "Published over 60 peer-reviewed papers – Dr. Watson’s extensive publication record spans topics from carbon cycling and renewable energy to ecosystem resilience and climate education, establishing her as a leading voice in environmental science.",
+
+  "Trained over 200 conservationists worldwide – Conducted global workshops and mentorship programs in over 15 countries, equipping environmental leaders with practical skills for sustainable natural resource management.",
+
+  "Developed climate-resilient farming practices – Designed and implemented innovative, low-cost agricultural methods that help farmers in vulnerable regions adapt to shifting rainfall patterns and temperature extremes.",
+
+  "Received the Royal Society Fellowship (2015) – Inducted for her outstanding achievements in climate research, leadership in science communication, and policy advocacy at national and global levels.",
+
+  "Contributed to global carbon offset policies – Played a key role in the formulation of equitable and scientifically grounded carbon offset frameworks now used in the Paris Agreement and other international climate protocols."
+]
+,
+  "research_papers": [
+    {
+      "title": "Impact of Rising Sea Temperatures",
+      "year": 2006,
+      "journal": "Nature Climate Change",
+      "link": "/emily/rising.pdf"
+    },
+    {
+      "title": "Carbon Sequestration Strategies for Mitigating Climate Change",
+      "year": 2012,
+      "journal": "Environmental Research Letters",
+      "link": "/emily/carbon.pdf"
+    }
+  ],
+  "lectures": [
+    {
+      "topic": "Climate Science for Beginners",
+      "platform": "YouTube"
+    },
+    {
+      "topic": "Sustainable Future: Climate Solutions for the 21st Century",
+      "platform": "Coursera"
+    },
+    {
+      "topic": "The Impact of Ocean Acidification on Marine Life",
+      "platform": "TEDx"
+    },
+    {
+      "topic": "Climate Change and Global Policy: How to Tackle the Crisis",
+      "platform": "LinkedIn Learning"
+    }
+  ],
+  "social_media": {
+    "Twitter": "https://twitter.com/emilywatson",
+    "LinkedIn": "https://linkedin.com/in/emilywatson"
+  }
+}
+,
+{
+  "id": 9,
+  "subject": "robotics",
+  "name": "Dr. David Li",
+  "field": "Robotics & Automation",
+"experience": "With over 18 years of hands-on experience in the field of robotics, Dr. David Li has consistently been at the forefront of technological advancements and innovations. His career spans across prestigious academic institutions, cutting-edge research labs, and leading global companies, where he has made significant contributions to the development of autonomous systems, human-robot interaction, and AI-driven robotics. Throughout his career, Dr. Li has successfully led major robotics research and development projects, mentored the next generation of roboticists, and collaborated with multidisciplinary teams to tackle some of the most complex challenges in the field. His expertise ranges from developing advanced robotic algorithms and systems to shaping the future of automation and AI in real-world applications. With a career that continues to evolve, Dr. Li's influence in the robotics field remains profound and ongoing, driving innovation and setting new benchmarks for the industry."
+,  "photo": "/photos/dr li.jpg",
+ "universities": [
+
+  "Name : University of Cambridge",
+  "Role : Professor of Robotics and Human-Machine Interaction",
+  "Department : Department of Engineering and Computer Science",
+  "Duration : 2009 – Present",
+  "Details : Dr. David Li has been serving as a senior professor and lead researcher at the University of Cambridge since completing his Ph.D. there in 2009. At Cambridge, he leads multiple research initiatives in human-robot interaction, autonomous systems, and ethical AI. He supervises doctoral students and has played a pivotal role in shaping the robotics curriculum, establishing one of the most advanced robotics labs in the UK. His work here includes collaborations with medical institutes on surgical robotics and with aerospace teams on autonomous exploration rovers.",
+
+  "Name : Tokyo Institute of Technology",
+  "Role : Undergraduate and Early Research Scholar",
+  "Department : Department of Mechanical and Intelligent Systems Engineering",
+  "Duration : 1998 – 2002",
+  "Details : Dr. Li began his academic journey at Tokyo Tech, where he earned his Bachelor's degree in Mechanical Engineering. During his undergraduate years, he was involved in student-led robotics competitions and worked on early prototypes of legged robots. His exposure to Japan’s cutting-edge robotics ecosystem laid the foundation for his future research in automation and AI. He also published his first academic paper on motion planning during his final year.",
+
+  "Name : Massachusetts Institute of Technology (MIT)",
+  "Role : Graduate Researcher and Master’s Student in Robotics",
+  "Department : Computer Science and Artificial Intelligence Laboratory (CSAIL)",
+  "Duration : 2002 – 2004",
+  "Details : At MIT, Dr. Li completed his M.Sc. in Robotics and worked within the renowned CSAIL lab under the mentorship of pioneers in artificial intelligence and machine learning. His research focused on sensor fusion, robotic path planning, and real-time control systems for autonomous mobile robots. He co-authored several papers and contributed to projects that influenced robotic navigation technologies still in use today. MIT's interdisciplinary and innovation-driven environment deeply influenced Dr. Li’s research philosophy."
+
+]
+,
+  "biography": {
+  "early_life": "Dr. David Li was born and raised in the bustling city of Hong Kong, where he quickly developed a deep fascination with engineering and technology. From a young age, he exhibited an innate curiosity about how things worked, often taking apart household gadgets to understand their inner workings. His early interest in mechanics and design was sparked by his exposure to a wide range of technologies, from traditional machines to the emerging field of robotics. As a child, Dr. Li was captivated by the world of robotics, a field that seemed both futuristic and full of endless possibilities. His passion for creating things led him to experiment with various construction toys, most notably LEGO kits. With these, he built intricate mechanical models and simple machines that demonstrated basic engineering principles. It was with LEGO that he first started creating robots, igniting a spark that would guide his academic and professional journey. During his high school years, Dr. Li's interest in robotics deepened. By then, he had already constructed several working prototypes of robotic arms, a project that garnered attention from both teachers and fellow students. These early creations were powered by basic motors and sensors, yet they demonstrated a solid understanding of mechanics, control systems, and programming. His work became known within the school community, where he was encouraged to further pursue his passion. Inspired by his love for science fiction, particularly the advancements in artificial intelligence (AI) and automation seen in movies and literature, Dr. Li realized that robotics was more than just a hobby; it was his true calling. He became determined to pursue a career that would allow him to explore the intersection of engineering, robotics, and AI. His early experiences—combining creativity, problem-solving, and technology—formed the foundation for his future studies and groundbreaking work in the field of robotics. In essence, Dr. Li’s upbringing in the vibrant and technology-driven environment of Hong Kong, along with his early exposure to hands-on engineering, fostered a lifelong dedication to pushing the boundaries of what robotics could achieve. His journey, which began with simple mechanical models, would soon evolve into world-leading research on autonomous systems, human-robot interaction, and the future of AI-powered machines.",
+
+   "education": [
+    "Bachelor of Engineering (B.Eng.) in Mechanical Engineering, Tokyo Institute of Technology (2002) - During his undergraduate studies at Tokyo Institute of Technology, Dr. David Li developed a strong foundation in the principles of mechanical engineering, with a particular focus on mechatronics and robotic design. His coursework and hands-on projects in this field laid the groundwork for his passion for robotics. Dr. Li worked on various student-led projects that involved designing robotic arms and other automation systems. His early interest in the intersection of mechanical engineering and robotics led him to pursue further studies in this rapidly evolving field.",
+
+    "Master of Science (M.Sc.) in Robotics, Massachusetts Institute of Technology (MIT) (2004) - At MIT, Dr. Li's academic journey took a significant leap forward as he specialized in robotics, particularly focusing on autonomous control systems. His thesis research delved into the challenges of machine learning for bipedal robots, where he developed novel algorithms that enabled robots to better interact with their environments. Dr. Li’s work in this area was groundbreaking, exploring how robots can navigate complex, real-world scenarios and adapt to unforeseen circumstances. His innovative approach earned him recognition within MIT’s renowned Computer Science and Artificial Intelligence Laboratory (CSAIL), and his research contributed to the development of more capable and responsive robotic systems.",
+
+    "Doctor of Philosophy (Ph.D.) in Human-Robot Interaction, University of Cambridge (2009) - Dr. Li's doctoral research at the University of Cambridge was a pivotal moment in his career. His Ph.D. work focused on human-robot interaction (HRI), with a particular emphasis on creating adaptive algorithms that allowed robots to process and respond to real-time human feedback. His pioneering work in this area helped bridge the gap between robots' technical abilities and their practical, collaborative use in human-centered environments. Dr. Li's research contributed significantly to the field of HRI, making it possible for robots to seamlessly integrate into dynamic environments such as medical operating rooms, emergency response teams, and industrial settings. His work at Cambridge established him as a leader in the growing field of collaborative robotics."
+]
+,
+"career": "Dr. David Li has established himself as a leading figure in the field of robotics, with an impressive career that spans across some of the world's most prestigious institutions and innovative companies. Over the years, he has contributed to groundbreaking advancements in robotics research and development (R&D), collaborating with experts from various disciplines to push the boundaries of what autonomous machines can achieve. Early in his career, Dr. Li was appointed to lead the humanoid robotics division at a major global technology company. In this role, he successfully developed a series of advanced humanoid robots designed for applications that required both precision and adaptability. These robots were utilized in highly specialized fields, including surgical procedures where their ability to perform delicate, real-time movements with high accuracy made them invaluable in medical settings. Additionally, his robots were deployed in disaster recovery scenarios, where their agility and versatility allowed them to navigate through hazardous environments and assist in rescuing victims. Dr. Li's innovations also extended to elderly care, where his robots were designed to assist with daily living tasks, providing both physical and emotional support to the aging population. This work was instrumental in improving the quality of life for many elderly individuals, as well as addressing the global issue of caregiving shortages. As the visionary founder of the Robotic Futures Lab, Dr. Li has been at the forefront of several pioneering research projects. Under his leadership, the lab has received substantial funding from the European Union (EU) and various innovation hubs across Asia, allowing for the development of cutting-edge robotic technologies. One of the lab's flagship initiatives involved the creation of modular robots specifically designed for search and rescue operations. These robots, capable of transforming and adapting to different environments, have been deployed in various countries across the globe to aid in disaster recovery efforts. Their ability to function autonomously in perilous conditions has made them essential tools in saving lives and preventing further damage during natural and man-made disasters. Dr. Li's career has been marked by his commitment to shaping the future of robotics not only through technological advancements but also by ensuring that the ethical considerations of AI and automation are carefully addressed. He has worked closely with governments around the world to advise on the development of policies that govern the use of AI in society, focusing on creating frameworks that ensure these technologies are used responsibly and transparently. In addition to his technical expertise, Dr. Li is deeply committed to mentoring the next generation of roboticists and engineers. He regularly advises young researchers and students, providing them with the guidance and knowledge necessary to make their own contributions to the field. Through his work in both academia and industry, Dr. Li continues to inspire innovation and leadership in robotics, paving the way for a future where robots work alongside humans to improve lives and solve global challenges."
+  },
+  "achievements": [
+  "Developed AI-powered surgical robots used in hospitals across Asia and Europe, improving surgical accuracy and patient recovery through real-time feedback systems and precision control algorithms.",
+  "Published over 45 patents on advanced robotic systems and automation technologies, including innovations in mobility, machine vision, and human-robot collaboration.",
+  "Founded the Robotic Futures Lab, a leading global research center focused on autonomous systems, AI in robotics, and ethical machine design, with collaborations across academia and industry.",
+  "Delivered keynote lectures at global summits including the World Tech Congress, Robotics Asia 2023, and FutureTech Europe, sharing groundbreaking research in robotics, automation, and AI-driven systems.",
+  "Invented modular rescue robots deployed in earthquake and disaster-struck regions, capable of navigating debris, detecting survivors using thermal imaging, and delivering emergency supplies autonomously.",
+  "Received the IEEE Robotics and Automation Award in 2016 for his pioneering work in intelligent machine systems and for advancing the practical deployment of AI-integrated robots.",
+  "Led the EU-funded Smart Automation project, impacting over 40 industrial sites with intelligent manufacturing systems, resulting in significant increases in efficiency and sustainability.",
+  "Designed robotic platforms used in NASA’s Mars simulation habitats to assist in life support tasks, autonomous logistics, and material transportation under extreme space-like conditions.",
+  "Mentored more than 80 robotics engineers and Ph.D. students, many of whom have gone on to lead AI labs, contribute to space missions, or found tech startups in automation and robotics.",
+  "Created AI-powered emotional support robots for elderly care centers, designed to provide companionship, assist with mobility, monitor health vitals, and respond to human emotions with adaptive behavior."
+]
+,
+  "research_papers": [
+    {
+      "title": "AI and Adaptive Robotics",
+      "year": 2010,
+      "journal": "IEEE Transactions on Robotics",
+      "link": "/david/2010.pdf"
+    },
+    {
+      "title": "Smart Sensor Networks in Automation",
+      "year": 2015,
+      "journal": "Automation Science Journal",
+      "link": "/david/2015.pdf"
+    },
+    {
+      "title": "Robotics for Disaster Response: Modular Systems",
+      "year": 2019,
+      "journal": "Robotics & Automation Letters",
+      "link": "/david/2019.pdf"
+    },
+    {
+      "title": "Ethical AI in Healthcare Robotics",
+      "year": 2021,
+      "journal": "Science Robotics",
+      "link": "/david/2021.pdf"
+    }
+  ],
+  "lectures": [
+    {
+      "topic": "Introduction to Robotics",
+      "platform": "edX"
+    },
+    {
+      "topic": "Automation in Industry 4.0",
+      "platform": "YouTube"
+    },
+    {
+      "topic": "Design Thinking in Robotic Engineering",
+      "platform": "Coursera"
+    },
+    {
+      "topic": "Human-Robot Interaction: The Future of Collaboration",
+      "platform": "MIT OpenCourseWare"
+    },
+    {
+      "topic": "AI for Good: Social Applications of Robotics",
+      "platform": "UNESCO Lecture Series"
+    }
+  ]
+}
+,
+    {
+      "id": 10,
+      "subject": "astrophysics",
+      "name": "Dr. Priya Natarajan",
+      "field": "Astrophysics",
+      "experience": 22,
+      "photo": "/photos/dr priya.jpeg",
+      "universities": ["Cambridge", "Yale", "Harvard"],
+      "biography": {
+        "early_life": "Born in India, fascinated by stars and galaxies as a child.",
+        "education": [
+          "B.Sc. in Physics, Delhi University (1994)",
+          "M.Sc. in Astrophysics, Cambridge (1997)",
+          "Ph.D. in Cosmology, Yale (2002)"
+        ],
+        "career": "Researched dark matter and galaxy formation, now lectures globally on astrophysics."
+      },
+      "achievements": [
+        "Mapped distribution of dark matter",
+        "Published extensively in cosmology",
+        "NASA collaborator for Hubble projects",
+        "TED speaker on dark energy",
+        "Mentored international post-docs",
+        "Authored bestselling book on black holes",
+        "Awarded Kavli Prize in Astrophysics",
+        "Established Women in Science network",
+        "Organized International Astrophysics Congress",
+        "Public science advocate globally"
+      ],
+      "research_papers": [
+        {
+          "title": "Dark Matter and Galaxy Structure",
+          "year": 2007,
+          "journal": "Astrophysical Journal",
+          "link": "https://astrophysics.org/dark-matter"
+        },
+        {
+          "title": "Cosmic Lensing Techniques",
+          "year": 2013,
+          "journal": "Cosmology Reports",
+          "link": "https://cosmologyreports.com/lensing"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "What is Dark Matter?",
+          "platform": "YouTube",
+          "link": "https://youtube.com/what-is-dark-matter"
+        },
+        {
+          "topic": "Black Holes and Beyond",
+          "platform": "edX",
+          "link": "https://edx.org/black-holes-beyond"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "subject": "engineering",
+      "name": "Dr. Ahmed El-Sayed",
+      "field": "Mechanical Engineering",
+      "experience": 26,
+      "photo": "/photos/dr sayed.jpeg",
+      "universities": ["Cambridge", "Imperial College London", "University of Cairo"],
+      "biography": {
+        "early_life": "Born in Cairo, Egypt, deeply interested in machines and aerodynamics from a young age.",
+        "education": [
+          "B.Eng. in Mechanical Engineering, University of Cairo (1990)",
+          "M.Sc. in Thermodynamics, Imperial College (1993)",
+          "Ph.D. in Fluid Mechanics, Cambridge (1998)"
+        ],
+        "career": "Consulted on aerospace designs, now leading sustainable engineering initiatives."
+      },
+      "achievements": [
+        "Developed high-efficiency jet turbines",
+        "Published 80+ engineering papers",
+        "Advisor to Rolls-Royce Aerospace",
+        "Won ASME Global Engineer Award",
+        "Founded Centre for Sustainable Machines",
+        "Led project on wind-powered vehicles",
+        "Taught over 2500 students worldwide",
+        "Keynote at World Engineering Summit",
+        "Editor of Mechanical World Journal",
+        "Developed AI-driven maintenance systems"
+      ],
+      "research_papers": [
+        {
+          "title": "Turbine Blade Optimization Techniques",
+          "year": 2010,
+          "journal": "Journal of Mechanical Engineering",
+          "link": "https://mechengjournal.com/blade-opt"
+        },
+        {
+          "title": "Aerodynamic Flow in Jet Engines",
+          "year": 2017,
+          "journal": "Aerospace Science Reviews",
+          "link": "https://asr.org/flow-jets"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Next-Gen Engineering",
+          "platform": "Coursera",
+          "link": "https://coursera.org/nextgen-eng"
+        },
+        {
+          "topic": "Sustainable Engineering Design",
+          "platform": "YouTube",
+          "link": "https://youtube.com/sust-engineering"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "subject": "art history",
+      "name": "Dr. Isabella Rossi",
+      "field": "Art History",
+      "experience": 15,
+      "photo": "/photos/dr rossy.jpg",
+      "universities": ["Cambridge", "University of Florence", "Sorbonne"],
+      "biography": {
+        "early_life": "Grew up in Florence, Italy, surrounded by Renaissance art and architecture.",
+        "education": [
+          "B.A. in Art History, University of Florence (2005)",
+          "M.A. in Classical Art, Sorbonne (2008)",
+          "Ph.D. in Visual Culture, Cambridge (2012)"
+        ],
+        "career": "Curator and researcher focused on European art and visual narratives in history."
+      },
+      "achievements": [
+        "Curated major exhibitions in Paris and London",
+        "Published 30+ art history articles",
+        "Authored book on Renaissance symbolism",
+        "Won the Visual Culture Scholar Award",
+        "Created online museum virtual tours",
+        "Founded Visual Narratives Collective",
+        "Taught courses in 5 languages",
+        "Collaborated with Louvre & British Museum",
+        "Hosted BBC documentary series",
+        "Revived forgotten Italian artists' legacies"
+      ],
+      "research_papers": [
+        {
+          "title": "Symbolism in Florentine Art",
+          "year": 2013,
+          "journal": "Journal of Visual Studies",
+          "link": "https://visualstudies.org/florentine-symbolism"
+        },
+        {
+          "title": "Virtual Museums: Art in the Digital Age",
+          "year": 2019,
+          "journal": "Digital Art Review",
+          "link": "https://digitalart.org/virtual-museums"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Art and Architecture in the Renaissance",
+          "platform": "edX",
+          "link": "https://edx.org/renaissance-art"
+        },
+        {
+          "topic": "Visual Culture Explained",
+          "platform": "YouTube",
+          "link": "https://youtube.com/visualculture"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "subject": "law",
+      "name": "Dr. James Thompson",
+      "field": "Law and Legal Theory",
+      "experience": 30,
+      "photo": "/photos/dr James.jpg",
+      "universities": ["Cambridge", "Harvard Law", "LSE"],
+      "biography": {
+        "early_life": "Born in London, always intrigued by justice and civil rights from a young age.",
+        "education": [
+          "LL.B., LSE (1985)",
+          "LL.M., Harvard Law School (1989)",
+          "Ph.D. in Legal Theory, Cambridge (1993)"
+        ],
+        "career": "Advisor to UK Parliament, published expert on constitutional law and human rights."
+      },
+      "achievements": [
+        "Drafted UK legal reforms",
+        "Won International Jurist Award",
+        "Fellow of British Academy of Law",
+        "Published 10 books on jurisprudence",
+        "Taught law in 10+ countries",
+        "Advocate for judicial ethics",
+        "Advisor to UN Human Rights Council",
+        "Developed interactive law curriculum",
+        "Delivered landmark lectures at Oxford",
+        "Head of Legal Philosophy Department"
+      ],
+      "research_papers": [
+        {
+          "title": "Constitutional Reform in the 21st Century",
+          "year": 2005,
+          "journal": "Modern Law Review",
+          "link": "https://lawreview.org/constitutional-reform"
+        },
+        {
+          "title": "Human Rights in Global Contexts",
+          "year": 2012,
+          "journal": "International Journal of Law",
+          "link": "https://intlaw.org/human-rights"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Legal Theory and Justice",
+          "platform": "Coursera",
+          "link": "https://coursera.org/legal-theory"
+        },
+        {
+          "topic": "Human Rights Law",
+          "platform": "YouTube",
+          "link": "https://youtube.com/human-rights-law"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "subject": "marine biology",
+      "name": "Dr. Mei Lin",
+      "field": "Marine Biology",
+      "experience": 17,
+      "photo": "/photos/dr lin.jpeg",
+      "universities": ["Cambridge", "University of Queensland", "National University of Singapore"],
+      "biography": {
+        "early_life": "Grew up near the South China Sea, passionate about ocean life and coral reefs.",
+        "education": [
+          "B.Sc. in Marine Biology, NUS (2004)",
+          "M.Sc. in Marine Ecology, UQ (2007)",
+          "Ph.D. in Ocean Sciences, Cambridge (2012)"
+        ],
+        "career": "Leads deep-sea exploration and coral reef conservation projects globally."
+      },
+      "achievements": [
+        "Discovered new coral species",
+        "Published widely on reef restoration",
+        "Consultant for National Geographic",
+        "Led global coral bleaching study",
+        "Won UNESCO Marine Award",
+        "Developed underwater research drones",
+        "Trained 300+ ocean scientists",
+        "Started ocean awareness program in Asia",
+        "TED talk on Saving Coral Reefs",
+        "Founded Coral Guard nonprofit"
+      ],
+      "research_papers": [
+        {
+          "title": "Coral Reefs in Crisis",
+          "year": 2015,
+          "journal": "Marine Conservation Letters",
+          "link": "https://marinelit.org/coral-crisis"
+        },
+        {
+          "title": "Deep Sea Biodiversity",
+          "year": 2019,
+          "journal": "Ocean Research Journal",
+          "link": "https://oceanres.org/deep-sea"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Oceans and Climate Change",
+          "platform": "YouTube",
+          "link": "https://youtube.com/oceans-climate"
+        },
+        {
+          "topic": "Marine Life in the Deep Sea",
+          "platform": "edX",
+          "link": "https://edx.org/deep-sea-life"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "subject": "civil engineering",
+      "name": "Dr. Rajesh Patel",
+      "field": "Civil Engineering",
+      "experience": 21,
+      "photo": "/photos/dr rajesh.jpg",
+      "universities": ["Cambridge", "IIT Bombay", "MIT"],
+      "biography": {
+        "early_life": "Born in Ahmedabad, India, inspired by urban infrastructure and public works.",
+        "education": [
+          "B.Tech in Civil Engineering, IIT Bombay (1999)",
+          "M.Sc. in Structural Engineering, MIT (2003)",
+          "Ph.D. in Sustainable Infrastructure, Cambridge (2008)"
+        ],
+        "career": "Expert in green building and earthquake-resistant structures. Leads global urban infrastructure projects."
+      },
+      "achievements": [
+        "Designed earthquake-resilient housing for Nepal",
+        "Member of UK National Construction Board",
+        "Published 50+ infrastructure papers",
+        "Advisor to World Bank on urban planning",
+        "Fellow of Institution of Civil Engineers",
+        "Led rebuilding efforts after Haiti quake",
+        "Taught structural analysis to 2000+ students",
+        "Awarded ICE Global Impact Medal",
+        "Founded SmartCities Lab",
+        "Authored ‘Resilient Cities’ handbook"
+      ],
+      "research_papers": [
+        {
+          "title": "Resilient Infrastructure in Seismic Zones",
+          "year": 2016,
+          "journal": "Engineering Structures",
+          "link": "https://engstruct.org/seismic-infra"
+        },
+        {
+          "title": "Green Building for Urban Sustainability",
+          "year": 2021,
+          "journal": "Urban Engineering Today",
+          "link": "https://uetoday.org/green-building"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Future Cities",
+          "platform": "YouTube",
+          "link": "https://youtube.com/futurecities"
+        },
+        {
+          "topic": "Engineering for Disaster Resilience",
+          "platform": "edX",
+          "link": "https://edx.org/disaster-resilience"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "subject": "literature",
+      "name": "Dr. Fiona Clarke",
+      "field": "English Literature",
+      "experience": 18,
+      "photo": "/photos/dr flona.jpeg",
+      "universities": ["Cambridge", "Oxford", "Yale"],
+      "biography": {
+        "early_life": "Raised in Bath, UK, surrounded by the literary world of Jane Austen.",
+        "education": [
+          "B.A. in English, Oxford (2002)",
+          "M.A. in Literary Theory, Yale (2005)",
+          "Ph.D. in Comparative Literature, Cambridge (2009)"
+        ],
+        "career": "Specialist in 19th-century literature and modern literary theory. Frequent speaker at global lit festivals."
+      },
+      "achievements": [
+        "Published 5 award-winning books",
+        "Won British Council Literature Award",
+        "Director of Cambridge Literature Society",
+        "Keynote speaker at Edinburgh Lit Fest",
+        "Advocate for women in literature",
+        "Created virtual reading community",
+        "Developed AI literary analysis tools",
+        "Taught thousands of literature students",
+        "Editor for ‘Modern Literary Review’",
+        "Launched 'Literature for All' initiative"
+      ],
+      "research_papers": [
+        {
+          "title": "Feminist Voices in Victorian Literature",
+          "year": 2013,
+          "journal": "Feminist Literary Studies",
+          "link": "https://femlit.org/victorian-voices"
+        },
+        {
+          "title": "Digital Humanities in Literature",
+          "year": 2020,
+          "journal": "Digital Lit Quarterly",
+          "link": "https://digitallitq.org/dh-literature"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Literary Movements in the 19th Century",
+          "platform": "YouTube",
+          "link": "https://youtube.com/19thlit"
+        },
+        {
+          "topic": "Modern Criticism Explained",
+          "platform": "Coursera",
+          "link": "https://coursera.org/mod-crit"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "subject": "astrophysics",
+      "name": "Dr. Lars Björnsson",
+      "field": "Astrophysics",
+      "experience": 20,
+      "photo": "/photos/dr lars.jpg",
+      "universities": ["Cambridge", "University of Stockholm", "CERN"],
+      "biography": {
+        "early_life": "Grew up in Sweden, fascinated by stars and the mysteries of the cosmos.",
+        "education": [
+          "B.Sc. in Physics, University of Stockholm (2001)",
+          "M.Sc. in Theoretical Physics, CERN Fellowship (2004)",
+          "Ph.D. in Astrophysics, Cambridge (2008)"
+        ],
+        "career": "Works on black holes, cosmic radiation, and dark matter detection. Leads astrophysics projects at Cambridge."
+      },
+      "achievements": [
+        "Contributed to Higgs boson discovery",
+        "Led global project on dark matter mapping",
+        "TEDx talk on ‘Invisible Universe’",
+        "Discovered new class of quasars",
+        "Published 100+ astrophysics papers",
+        "Developed student astrophysics lab",
+        "NASA collaborator on Hubble missions",
+        "Created VR models of space systems",
+        "Won European Astrophysics Medal",
+        "Fellow of the Royal Astronomical Society"
+      ],
+      "research_papers": [
+        {
+          "title": "Mapping Dark Matter in the Universe",
+          "year": 2014,
+          "journal": "Astrophysical Journal",
+          "link": "https://astroj.org/dark-matter-map"
+        },
+        {
+          "title": "High-Energy Quasars",
+          "year": 2022,
+          "journal": "Physics of Space",
+          "link": "https://phys-space.org/high-energy-quasars"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Exploring the Invisible Universe",
+          "platform": "YouTube",
+          "link": "https://youtube.com/invisible-universe"
+        },
+        {
+          "topic": "Black Holes and Beyond",
+          "platform": "edX",
+          "link": "https://edx.org/black-holes"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "subject": "genetics",
+      "name": "Dr. Emily Nguyen",
+      "field": "Genetics and Genomics",
+      "experience": 12,
+      "photo": "/photos/dr emily c.jpg",
+      "universities": ["Cambridge", "Harvard", "University of Melbourne"],
+      "biography": {
+        "early_life": "Born in Sydney, inspired by medical science and DNA research.",
+        "education": [
+          "B.Sc. in Biomedical Sciences, Melbourne (2009)",
+          "M.Sc. in Genetics, Harvard (2012)",
+          "Ph.D. in Genomics, Cambridge (2016)"
+        ],
+        "career": "Focuses on gene editing, personalized medicine, and CRISPR applications. Active biotech innovator."
+      },
+      "achievements": [
+        "Developed new gene therapy methods",
+        "Patent holder for CRISPR applications",
+        "Featured in Nature’s ‘Top 40 Under 40’",
+        "TED talk on the genome future",
+        "Founder of GeneX Biotech startup",
+        "Advisor for WHO Genomic Council",
+        "Published 60+ genetics papers",
+        "Mentor for women in STEM",
+        "Led COVID-19 genetic tracking project",
+        "Created online DNA learning platform"
+      ],
+      "research_papers": [
+        {
+          "title": "CRISPR Applications in Human Genetics",
+          "year": 2018,
+          "journal": "Genetics Today",
+          "link": "https://geneticstoday.org/crispr-human"
+        },
+        {
+          "title": "Genomic Responses to Viral Infections",
+          "year": 2021,
+          "journal": "BioScience Research",
+          "link": "https://biosc.org/virus-genomics"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "The Power of Genes",
+          "platform": "Coursera",
+          "link": "https://coursera.org/power-of-genes"
+        },
+        {
+          "topic": "Editing Life with CRISPR",
+          "platform": "YouTube",
+          "link": "https://youtube.com/crispr-editing"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "subject": "linguistics",
+      "name": "Dr. Tomasz Kowalski",
+      "field": "Linguistics and Language Technology",
+      "experience": 16,
+      "photo": "/photos/dr toma.png",
+      "universities": ["Cambridge", "University of Warsaw", "Stanford"],
+      "biography": {
+        "early_life": "Grew up bilingual in Poland, fascinated by how language shapes the mind.",
+        "education": [
+          "M.A. in Linguistics, University of Warsaw (2006)",
+          "Ph.D. in Computational Linguistics, Stanford (2011)",
+          "Postdoc in Language AI, Cambridge (2013)"
+        ],
+        "career": "Works on language preservation, machine translation, and AI language modeling."
+      },
+      "achievements": [
+        "Built low-resource language translators",
+        "Published 70+ papers in NLP",
+        "Google AI Research Fellowship winner",
+        "Created endangered language database",
+        "Launched AI-Phrase open-source tool",
+        "Spoke at UNESCO Language Forum",
+        "Taught linguistic AI at Cambridge",
+        "Contributed to BERT multilingual model",
+        "Developed sign language tech",
+        "Founder of PolyLingua Lab"
+      ],
+      "research_papers": [
+        {
+          "title": "AI Translation for Endangered Languages",
+          "year": 2019,
+          "journal": "Language & Tech Journal",
+          "link": "https://ltj.org/endangered-ai"
+        },
+        {
+          "title": "Cognitive Modeling in NLP",
+          "year": 2023,
+          "journal": "Computational Linguistics Today",
+          "link": "https://clt.org/cog-nlp"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Future of Human-AI Communication",
+          "platform": "YouTube",
+          "link": "https://youtube.com/ai-linguistics"
+        },
+        {
+          "topic": "Language Tech in Practice",
+          "platform": "Coursera",
+          "link": "https://coursera.org/langtech"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "subject": "climate science",
+      "name": "Dr. Hannah Müller",
+      "field": "Climate Science",
+      "experience": 19,
+      "photo": "/photos/dr hanna.jpeg",
+      "universities": ["Cambridge", "ETH Zurich", "Columbia University"],
+      "biography": {
+        "early_life": "Grew up in the Swiss Alps, witnessing glaciers melting firsthand.",
+        "education": [
+          "B.Sc. in Environmental Sciences, ETH Zurich (2003)",
+          "M.Sc. in Climate Policy, Columbia (2006)",
+          "Ph.D. in Earth Sciences, Cambridge (2010)"
+        ],
+        "career": "Leads climate research on Arctic feedback loops, teaches sustainability, and advises global policy makers."
+      },
+      "achievements": [
+        "Contributed to IPCC climate reports",
+        "Published 85+ climate studies",
+        "UN Climate Action Medal recipient",
+        "Led Arctic ice retreat mission",
+        "Popularized ‘Net Zero Now’ program",
+        "TEDx talk on feedback loops",
+        "Advisor to EU Green Deal",
+        "Developed global climate data platform",
+        "Spoke at COP26 and COP28",
+        "Founder of EarthGuard Initiative"
+      ],
+      "research_papers": [
+        {
+          "title": "Arctic Amplification and Climate Feedback",
+          "year": 2017,
+          "journal": "Nature Climate Change",
+          "link": "https://natureclimate.org/arctic-feedback"
+        },
+        {
+          "title": "Net-Zero Climate Policy Models",
+          "year": 2022,
+          "journal": "Global Climate Policy Review",
+          "link": "https://gcpr.org/net-zero"
+        }
+      ],
+      "lectures": [
+        {
+          "topic": "Understanding Climate Systems",
+          "platform": "YouTube",
+          "link": "https://youtube.com/climate-systems"
+        },
+        {
+          "topic": "Climate Change and You",
+          "platform": "Coursera",
+          "link": "https://coursera.org/climate-and-you"
+        }
+      ]
+    }
+  ]
+  
+
+  
+  
+  
